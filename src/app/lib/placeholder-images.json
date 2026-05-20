@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "album-art-1",
+      "description": "Abstract purple and black electronic album art",
+      "imageUrl": "https://picsum.photos/seed/music1/400/400",
+      "imageHint": "abstract music"
+    },
+    {
+      "id": "album-art-2",
+      "description": "Minimalist jazz album cover",
+      "imageUrl": "https://picsum.photos/seed/music2/400/400",
+      "imageHint": "minimalist jazz"
+    },
+    {
+      "id": "album-art-3",
+      "description": "Vibrant pop music cover",
+      "imageUrl": "https://picsum.photos/seed/music3/400/400",
+      "imageHint": "vibrant pop"
+    },
+    {
+      "id": "profile-avatar",
+      "description": "User profile avatar",
+      "imageUrl": "https://picsum.photos/seed/user1/100/100",
+      "imageHint": "person portrait"
+    }
+  ]
+}
